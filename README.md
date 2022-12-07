@@ -1,4 +1,4 @@
-# The-Citrus-dataset
+# The-Citrus-Dataset
 ## Overview
 In this study, our ultimate goal was to develop an object detection algorithm for applications such as fruit thinning and harvesting. An Intel RealSense D455 depth camera was used for image acquisition, which has been widely used in these applications. The shooting distance was between 0.5 m and 2 m. 
 
